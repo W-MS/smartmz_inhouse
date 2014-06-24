@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://61.145.118.194/arer/index.php/jobs/download?sid=ui26</string>
+            <string>http://61.145.118.194/arer/index.php/jobs/download?sid=WK5f</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://61.145.118.194/arer/index.php/jobs/download?sid=ui26&amp;icon=512</string>
+            <string>http://61.145.118.194/arer/index.php/jobs/download?sid=WK5f&amp;icon=512</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://61.145.118.194/arer/index.php/jobs/download?sid=ui26&amp;icon=57</string>
+            <string>http://61.145.118.194/arer/index.php/jobs/download?sid=WK5f&amp;icon=57</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -35,13 +35,13 @@
           <key>bundle-identifier</key>
           <string>com.tencent.xin.wma1</string>
           <key>bundle-version</key>
-          <string>5.3.0.16</string>
+          <string>5.3.0.19</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>微信1</string>
+          <string>微信</string>
           <key>title</key>
-          <string>微信1</string>
+          <string>微信</string>
         </dict>
       </dict>
     </array>
